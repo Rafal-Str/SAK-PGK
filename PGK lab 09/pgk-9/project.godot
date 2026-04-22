@@ -1,0 +1,16 @@
+config_version=5
+
+[application]
+
+config/name="pgk9 strzalkowski"
+run/main_scene="uid://b4y0wwqpcpo3b"
+config/features=PackedStringArray("4.6", "Forward Plus")
+config/icon="res://icon.svg"
+
+[physics]
+
+3d/physics_engine="Jolt Physics"
+
+[rendering]
+
+rendering_device/driver.windows="d3d12"
